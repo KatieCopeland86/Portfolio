@@ -9,3 +9,6 @@ Queens Problem- Did not use the best option relating to Big O notation but wante
 Rainwater- Completed solution for LeetCode problem.<br/>
 Roman Numemeral- Completed solution for LeetCode problem.<br/>
 Valid Parentheses- Completed solution for LeetCode problem.<br/>
+
+# Three Card Poker Terminal Version
+Three Card Poker Terminal Application created during my Supplemental Instruction position for use in the WVUP CS122 Object Oriented Programming Class. 
